@@ -8,9 +8,9 @@ Feel free to explore the projects and dive into the code. I hope you find these 
 
 Here's a list of the Python applications and projects available in this repository, along with links to their respective folders:
 
-1. [Task List Application](Task List Application/README.md): A command-line task list application that allows you to manage your tasks.
+1. [Task List Application](https://github.com/xflasar/Python-Learning/tree/31ba94a1b66cb561c59aa6fb489ad70a7a9d0425/Task%20List%20Application/): A command-line task list application that allows you to manage your tasks.
 
-   - [View Code](Task List Application/main.py)
+   - [View Code](https://github.com/xflasar/Python-Learning/tree/31ba94a1b66cb561c59aa6fb489ad70a7a9d0425/Task%20List%20Application/main.py)
 
 ## Getting Started
 
